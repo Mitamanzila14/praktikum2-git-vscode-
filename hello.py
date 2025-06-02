@@ -1,2 +1,1 @@
-print("Hello, Git and VSCode!")
-print("Versi cabang fitur1")
+print("Hello... Git and VSCode!, MyName Mita Manzila Tusifa, Sem 4 UNIPI")
